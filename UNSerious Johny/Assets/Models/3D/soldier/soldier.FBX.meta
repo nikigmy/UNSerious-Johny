@@ -1,0 +1,271 @@
+fileFormatVersion: 2
+guid: 701b856c84ca7c74d914a612e8db2d70
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: armorArms
+    100002: armorBody
+    100004: Bip01
+    100006: Bip01 Head
+    100008: Bip01 L Calf
+    100010: Bip01 L Clavicle
+    100012: Bip01 L Finger0
+    100014: Bip01 L Finger01
+    100016: Bip01 L Finger1
+    100018: Bip01 L Finger11
+    100020: Bip01 L Finger2
+    100022: Bip01 L Finger21
+    100024: Bip01 L Finger3
+    100026: Bip01 L Finger31
+    100028: Bip01 L Finger4
+    100030: Bip01 L Finger41
+    100032: Bip01 L Foot
+    100034: Bip01 L Forearm
+    100036: Bip01 L Hand
+    100038: Bip01 L Thigh
+    100040: Bip01 L Toe0
+    100042: Bip01 L UpperArm
+    100044: Bip01 Neck
+    100046: Bip01 Pelvis
+    100048: Bip01 R Calf
+    100050: Bip01 R Clavicle
+    100052: Bip01 R Finger0
+    100054: Bip01 R Finger01
+    100056: Bip01 R Finger1
+    100058: Bip01 R Finger11
+    100060: Bip01 R Finger2
+    100062: Bip01 R Finger21
+    100064: Bip01 R Finger3
+    100066: Bip01 R Finger31
+    100068: Bip01 R Finger4
+    100070: Bip01 R Finger41
+    100072: Bip01 R Foot
+    100074: Bip01 R Forearm
+    100076: Bip01 R Hand
+    100078: Bip01 R Thigh
+    100080: Bip01 R Toe0
+    100082: Bip01 R UpperArm
+    100084: Bip01 Spine
+    100086: Bip01 Spine1
+    100088: Bip01 Spine2
+    100090: head
+    100092: //RootNode
+    400000: armorArms
+    400002: armorBody
+    400004: Bip01
+    400006: Bip01 Head
+    400008: Bip01 L Calf
+    400010: Bip01 L Clavicle
+    400012: Bip01 L Finger0
+    400014: Bip01 L Finger01
+    400016: Bip01 L Finger1
+    400018: Bip01 L Finger11
+    400020: Bip01 L Finger2
+    400022: Bip01 L Finger21
+    400024: Bip01 L Finger3
+    400026: Bip01 L Finger31
+    400028: Bip01 L Finger4
+    400030: Bip01 L Finger41
+    400032: Bip01 L Foot
+    400034: Bip01 L Forearm
+    400036: Bip01 L Hand
+    400038: Bip01 L Thigh
+    400040: Bip01 L Toe0
+    400042: Bip01 L UpperArm
+    400044: Bip01 Neck
+    400046: Bip01 Pelvis
+    400048: Bip01 R Calf
+    400050: Bip01 R Clavicle
+    400052: Bip01 R Finger0
+    400054: Bip01 R Finger01
+    400056: Bip01 R Finger1
+    400058: Bip01 R Finger11
+    400060: Bip01 R Finger2
+    400062: Bip01 R Finger21
+    400064: Bip01 R Finger3
+    400066: Bip01 R Finger31
+    400068: Bip01 R Finger4
+    400070: Bip01 R Finger41
+    400072: Bip01 R Foot
+    400074: Bip01 R Forearm
+    400076: Bip01 R Hand
+    400078: Bip01 R Thigh
+    400080: Bip01 R Toe0
+    400082: Bip01 R UpperArm
+    400084: Bip01 Spine
+    400086: Bip01 Spine1
+    400088: Bip01 Spine2
+    400090: head
+    400092: //RootNode
+    2300000: armorArms
+    2300002: armorBody
+    2300004: head
+    3300000: armorArms
+    3300002: armorBody
+    3300004: head
+    4300000: body
+    4300002: armorBody_02
+    4300004: armorArms_02
+    4300006: head_02
+    4300008: armorBody
+    4300010: armorArms
+    4300012: head
+    7400000: Take 001
+    7400002: Take 001 //// Bip01
+    7400004: Take 001 //// Bip01 Pelvis
+    7400006: Take 001 //// Bip01 Spine
+    7400008: Take 001 //// Bip01 Spine1
+    7400010: Take 001 //// Bip01 Spine2
+    7400012: Take 001 //// Bip01 Neck
+    7400014: Take 001 //// Bip01 Head
+    7400016: Take 001 //// Bip01 L Clavicle
+    7400018: Take 001 //// Bip01 L UpperArm
+    7400020: Take 001 //// Bip01 L Forearm
+    7400022: Take 001 //// Bip01 L Hand
+    7400024: Take 001 //// Bip01 L Finger0
+    7400026: Take 001 //// Bip01 L Finger01
+    7400028: Take 001 //// Bip01 L Finger1
+    7400030: Take 001 //// Bip01 L Finger11
+    7400032: Take 001 //// Bip01 L Finger2
+    7400034: Take 001 //// Bip01 L Finger21
+    7400036: Take 001 //// Bip01 L Finger3
+    7400038: Take 001 //// Bip01 L Finger31
+    7400040: Take 001 //// Bip01 L Finger4
+    7400042: Take 001 //// Bip01 L Finger41
+    7400044: Take 001 //// Bip01 R Clavicle
+    7400046: Take 001 //// Bip01 R UpperArm
+    7400048: Take 001 //// Bip01 R Forearm
+    7400050: Take 001 //// Bip01 R Hand
+    7400052: Take 001 //// Bip01 R Finger0
+    7400054: Take 001 //// Bip01 R Finger01
+    7400056: Take 001 //// Bip01 R Finger1
+    7400058: Take 001 //// Bip01 R Finger11
+    7400060: Take 001 //// Bip01 R Finger2
+    7400062: Take 001 //// Bip01 R Finger21
+    7400064: Take 001 //// Bip01 R Finger3
+    7400066: Take 001 //// Bip01 R Finger31
+    7400068: Take 001 //// Bip01 R Finger4
+    7400070: Take 001 //// Bip01 R Finger41
+    7400072: Take 001 //// Bip01 L Thigh
+    7400074: Take 001 //// Bip01 L Calf
+    7400076: Take 001 //// Bip01 L Foot
+    7400078: Take 001 //// Bip01 L Toe0
+    7400080: Take 001 //// Bip01 R Thigh
+    7400082: Take 001 //// Bip01 R Calf
+    7400084: Take 001 //// Bip01 R Foot
+    7400086: Take 001 //// Bip01 R Toe0
+    9500000: //RootNode
+    11100000: //RootNode
+    11100002: armorArms
+    11100004: armorBody
+    11100006: Bip01
+    11100008: Bip01 Head
+    11100010: Bip01 L Calf
+    11100012: Bip01 L Clavicle
+    11100014: Bip01 L Finger0
+    11100016: Bip01 L Finger01
+    11100018: Bip01 L Finger1
+    11100020: Bip01 L Finger11
+    11100022: Bip01 L Finger2
+    11100024: Bip01 L Finger21
+    11100026: Bip01 L Finger3
+    11100028: Bip01 L Finger31
+    11100030: Bip01 L Finger4
+    11100032: Bip01 L Finger41
+    11100034: Bip01 L Foot
+    11100036: Bip01 L Forearm
+    11100038: Bip01 L Hand
+    11100040: Bip01 L Thigh
+    11100042: Bip01 L Toe0
+    11100044: Bip01 L UpperArm
+    11100046: Bip01 Neck
+    11100048: Bip01 Pelvis
+    11100050: Bip01 R Calf
+    11100052: Bip01 R Clavicle
+    11100054: Bip01 R Finger0
+    11100056: Bip01 R Finger01
+    11100058: Bip01 R Finger1
+    11100060: Bip01 R Finger11
+    11100062: Bip01 R Finger2
+    11100064: Bip01 R Finger21
+    11100066: Bip01 R Finger3
+    11100068: Bip01 R Finger31
+    11100070: Bip01 R Finger4
+    11100072: Bip01 R Finger41
+    11100074: Bip01 R Foot
+    11100076: Bip01 R Forearm
+    11100078: Bip01 R Hand
+    11100080: Bip01 R Thigh
+    11100082: Bip01 R Toe0
+    11100084: Bip01 R UpperArm
+    11100086: Bip01 Spine
+    11100088: Bip01 Spine1
+    11100090: Bip01 Spine2
+    11100092: head
+    13700000: armorArms
+    13700002: armorBody
+    13700004: head
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: <Root Transform>
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 3
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 4
+  importAnimation: 0
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
